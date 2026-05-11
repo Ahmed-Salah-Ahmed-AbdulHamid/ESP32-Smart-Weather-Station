@@ -15,11 +15,11 @@ This project is an IoT-based weather monitoring system. It uses an **ESP32** mic
 
 ## Project Gallery
 ### Hardware Setup
-*(Ensure you name your uploaded hardware image correctly, e.g., hardware_setup.jpg)*
+
 ![Hardware Setup](hardware_setup.jpg)
 
 ### ThingSpeak Live Dashboard
-*(Ensure you name your uploaded dashboard image correctly, e.g., dashboard.jpg)*
+
 ![ThingSpeak Dashboard](dashboard.jpg)
 
 ## Code Setup & Usage
